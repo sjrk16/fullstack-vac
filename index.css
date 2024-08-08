@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+}
+
+p{
+    color: red;
+}
+
+.ptag{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#h6tag{
+    font-weight: 800;
+}
+
+.formcon{
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
